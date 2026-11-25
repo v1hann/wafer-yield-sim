@@ -1,0 +1,20 @@
+FIGURE 1 — same wafer, same 71 defects, two die sizes
+  600 mm^2: 93 dies, 50 killed, yield 46.2%
+  150 mm^2: 402 dies, 58 killed, yield 85.6%
+
+FIGURE 2 — Monte Carlo vs analytic yield (D0 = 0.10 /cm^2)
+  Monte Carlo, Poisson: max deviation from analytic = 0.59%
+  Monte Carlo, clustered: max deviation from analytic = 0.46%
+
+FIGURE 3 — cost per working product vs total silicon area
+  crossover: chiplets cheaper above ~407 mm^2
+  300 mm^2: monolithic $134 (yield 75%), best = 1 chiplets $134, saving 0%
+  600 mm^2: monolithic $334 (yield 58%), best = 4 chiplets $279, saving 17%
+  800 mm^2: monolithic $521 (yield 49%), best = 4 chiplets $374, saving 28%
+
+FIGURE 4 — saving from the best chiplet split vs monolithic
+  D0=0.05: chiplets cheaper above ~569 mm^2
+  D0=0.10: chiplets cheaper above ~410 mm^2
+  D0=0.20: chiplets cheaper above ~281 mm^2
+  D0=0.30: chiplets cheaper above ~208 mm^2
+  D0=0.50: chiplets cheaper above ~165 mm^2
